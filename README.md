@@ -1,4 +1,4 @@
-# ShadCN UI Project
+# ShadCN UI Project - DashBoard
 
 This is a modern React/Next.js project built with **[shadcn/ui](https://ui.shadcn.com/)** components, styled with **Tailwind CSS**, and powered by **@tanstack/react-table** for dynamic tables.
 
