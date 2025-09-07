@@ -27,8 +27,8 @@ dashboard
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Priyansh-dixit810/DashBoard
+cd dashboard
 npm install
 
 Run the development server:
